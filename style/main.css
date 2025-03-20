@@ -62,10 +62,10 @@ body {
 }
 
 .text-box .fake-btn {
-  background-color: rgb(21, 161, 237);
+  background-color: #89b4fa;
   border-radius: 3px;
   bottom: -50px;
-  color: #fff;
+  color: #181825;
   padding: .5rem 1rem;
   position: absolute;
   right: 5px;
@@ -111,7 +111,7 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 45%;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
@@ -230,25 +230,25 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40%;
+    left: 45%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 45%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 45%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 45%;
   }
 }
 
